@@ -199,7 +199,7 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Author
 
-Built by **[Amr K. Alshariah]** — a machine learning project for the Jordanian used car market.
+Built by **Amr K. Alshariah**.
 
 - GitHub: [@amrbaniyaseen](https://github.com/amrbaniyaseen)
 - LinkedIn: [@amralshariah](https://www.linkedin.com/in/amralshariah)
