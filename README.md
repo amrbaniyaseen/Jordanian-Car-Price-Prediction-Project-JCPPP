@@ -171,31 +171,6 @@ http://127.0.0.1:5000
 
 ---
 
-## ☁️ Deploy Online (Free)
-
-### Option A — PythonAnywhere *(easiest for beginners)*
-1. Create a free account at [pythonanywhere.com](https://www.pythonanywhere.com)
-2. Upload all files via the Files tab
-3. Go to **Web** → **Add new web app** → **Flask**
-4. Point it to `app.py`
-5. Your app is live at `yourname.pythonanywhere.com`
-
-### Option B — Render.com
-1. Push this repo to GitHub
-2. Go to [render.com](https://render.com) → **New Web Service** → connect your repo
-3. Set **Start Command**: `gunicorn app:app`
-4. Set **Build Command**: `pip install -r requirements.txt`
-5. Deploy 🎉
-
-### Option C — Railway.app
-```bash
-pip install railway
-railway init
-railway up
-```
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -221,26 +196,16 @@ railway up
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Add Arabic language toggle for Jordanian users
-- [ ] Save prediction history with SQLite
-- [ ] Add confidence score from model
-- [ ] Retrain model periodically with fresh scraped data
-- [ ] Add a price trend chart by make/model/year
-- [ ] API endpoint for third-party integration
-
----
 
 ## 👨‍💻 Author
 
-Built by **[Your Name]** — a machine learning project for the Jordanian used car market.
+Built by **[Amr K. Alshariah]** — a machine learning project for the Jordanian used car market.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@amrbaniyaseen](https://github.com/amrbaniyaseen)
+- LinkedIn: [@amralshariah](https://www.linkedin.com/in/amralshariah)
 
 ---
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
